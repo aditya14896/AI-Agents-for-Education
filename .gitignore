@@ -3,3 +3,15 @@
 *.pdf
 **/.ipynb_checkpoints/
 **/__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+*/venv/
+*/env/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
